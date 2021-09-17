@@ -95,7 +95,9 @@ footer {
 }
 
 main {
-	
+
+	width:940px;
+	margin: 0 auto;		
 }
 
 form {
@@ -222,10 +224,12 @@ td, th {
 }
 
 .itens {
+
 	line-height: 1.5;
 }
 
 .itens:first-child {
+	
 	font-weight: bold;
 }
 
